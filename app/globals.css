@@ -16,4 +16,11 @@ body {
   color: rgb(var(--foreground-rgb));
   margin: 0;
   padding: 1rem;
+  display: grid;
+  place-items: center;
+}
+td, th{
+  width: fit-content;
+  background-color: aquamarine;
+  border-bottom: 3px solid black;
 }

@@ -5,7 +5,7 @@ const ProductsCard = () => {
   return (
     <main>
         <div>HELLO WORLD</div>
-        <Buttons/>
+        <Buttons />
     </main>
     
   )
